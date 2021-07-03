@@ -1,4 +1,4 @@
-console.log('this is es6 version of project2');
+console.log('ES6 version of project');
 
 class book{
     constructor(name,author,type) {
